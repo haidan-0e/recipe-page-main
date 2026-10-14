@@ -29,8 +29,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ![Screenshot](./screenshot.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/haidan-0e/recipe-page-main)
+- Live Site URL: [Add live site URL here](https://haidan-0e.github.io/recipe-page-main/)
 
 ## My process
 
